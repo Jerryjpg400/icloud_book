@@ -1,8 +1,8 @@
 # iCloud_Book
 
-## Some book about Computer Science
-## And some Chinese high school book
+## Some books about Computer Science
+## And some Chinese high school books
 
 ## LIST
 
-# High school book
+# High school books
